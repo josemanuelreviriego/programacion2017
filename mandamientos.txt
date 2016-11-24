@@ -1,0 +1,7 @@
+Los 5 mandamientos de la programacion
+
+1. Entender el enunciado hasta sus ultimas consecuencias
+2. Hacer el programa a mano como si no existiera el ordenador (5 veces)
+3. Hacer el algoritmo
+4. Traducirlo al lenguaje C (Codificar)
+5. Hacer un seguimiento
