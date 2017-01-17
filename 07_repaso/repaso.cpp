@@ -3,6 +3,12 @@
 
 int main(int argc, const char *argv[]){
 
+    char mander[20];
+    char *palabra = mander;
+
+    printf("Dime tu nombre: ");
+    scanf(" %s", palabra);
+
 
     return EXIT_SUCCESS;
 }
